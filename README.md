@@ -12,7 +12,8 @@ git clone git@github.com:Motardo/commited.git
 ##Run the shell script
 
 ```shell
-sh commited/commits.sh
+cd commited
+sh commits.sh
 ```
 
 ##Congratulations, you just made 1000 commits!
